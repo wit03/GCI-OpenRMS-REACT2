@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "id" : "1",
+            "categoryName" : "Fruits"
+        },
+        {
+            "id" : "2",
+            "categoryName" : "Bakery"
+        },
+        {
+            "id" : "3",
+            "categoryName" : "vegetable"
+        },
+        {
+            "id" : "4",
+            "categoryName" : "soft-drink"
+        },
+        {
+            "id" : "5",
+            "categoryName" : "livestock"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "products": [
+        {
+            "id" : "1",
+            "categoryId" : "1",
+            "name" : "Pine Apple",
+            "unit" : "Kg",
+            "pricePerUnit" : 1.2,
+            "stocks" : 10
+        },
+        {
+            "id" : "2",
+            "categoryId" : "5",
+            "name" : "Ground Pork",
+            "unit" : "Kg",
+            "pricePerUnit" : 5,
+            "stocks" : 13
+        },
+        {
+            "id" : "3",
+            "categoryId" : "4",
+            "name" : "Coca-Cola",
+            "unit" : "Can",
+            "pricePerUnit" : 1,
+            "stocks" : 145
+        },
+        {
+            "id" : "4",
+            "categoryId" : "4",
+            "name" : "Pepsi",
+            "unit" : "Can",
+            "pricePerUnit" : 1,
+            "stocks" : 463
+        },
+        {
+            "id" : "5",
+            "categoryId" : "2",
+            "name" : "Pan bread",
+            "unit" : "Piece",
+            "pricePerUnit" : 2,
+            "stocks" : 11
+        },
+        {
+            "id" : "6",
+            "categoryId" : "2",
+            "name" : "Baguette",
+            "unit" : "Piece",
+            "pricePerUnit" : 2.3,
+            "stocks" : 54
+        },
+        {
+            "id" : "7",
+            "categoryId" : "1",
+            "name" : "Watermelon",
+            "unit" : "Kg",
+            "pricePerUnit" : 3,
+            "stocks" : 67
+        },
+        {
+            "id" : "8",
+            "categoryId" : "2",
+            "name" : "Croissant",
+            "unit" : "Piece",
+            "pricePerUnit" : 3,
+            "stocks" : 134
+        },
+        {
+            "id" : "9",
+            "categoryId" : "5",
+            "name" : "Eggs",
+            "unit" : "Haugh",
+            "pricePerUnit" : 0.5,
+            "stocks" : 673
+        },
+        {
+            "id" : "10",
+            "categoryId" : "5",
+            "name" : "Pork Belly",
+            "unit" : "Kg",
+            "pricePerUnit" : 6,
+            "stocks" : 145
+        },
+        {
+            "id" : "11",
+            "categoryId" : "3",
+            "name" : "Asparagus",
+            "unit" : "Kg",
+            "pricePerUnit" : 1,
+            "stocks" : 103
+        },
+        {
+            "id" : "12",
+            "categoryId" : "3",
+            "name" : "Lettuce",
+            "unit" : "Kg",
+            "pricePerUnit" : 0.6,
+            "stocks" : 134
+        }
+    ]
+}
